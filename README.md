@@ -50,6 +50,8 @@ Config file options can be found in ```/configs```. We provide a pre-set config 
 
 Model checkpoints should be placed in ```/checkpoints``` at the top level. Both stable diffusion and depth model checkpoints can be placed here. For the paper, we used StableDiffusion v2 from [here](https://huggingface.co/stabilityai/stable-diffusion-2-depth) and [MiDaS](https://github.com/isl-org/MiDaS).
 
+A pre-trained model checkpoint used in our paper can be found here:  https://drive.google.com/file/d/12L4oy5Y8Dk5ESuMix-KdDQgUGaEO4oUE.
+
 ### Running the Code
 
 Once the data and checkpoints have been placed in the correct folder, the code can be run with the following command:
